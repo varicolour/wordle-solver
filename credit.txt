@@ -1,0 +1,1 @@
+wordslist taken from here: https://github.com/Kinkelin/WordleCompetition
