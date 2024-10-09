@@ -6,7 +6,7 @@ yellow = "\033[33m"
 bold = "\033[1m"
 clear = "\033[0m"
 
-wordfile = open("C:/Users/tobia/Documents/python/wordle-solver/wordlist.txt", "r")
+wordfile = open("path/to/your/wordfile", "r")
 wordList = []
 loop = True
 while loop == True:
